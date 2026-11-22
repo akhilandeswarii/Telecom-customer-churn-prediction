@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📡 Telecom Customer Churn Prediction & Retention Analysis
 
 An end-to-end Machine Learning project that predicts whether a telecom customer is likely to discontinue their service ("churn") based on billing, contract, and service usage data, paired with an interactive **Streamlit** web dashboard for visual analysis and automated retention strategies.
@@ -30,3 +31,7 @@ churn-project/
 ├── telco_churn_clean.csv   # Preprocessed dataset used for dashboard charts
 ├── models.pkl              # Saved trained models and feature columns
 └── requirements.txt        # Python dependencies
+=======
+# Telecom-customer-churn-prediction
+End-to-end Machine Learning web application that predicts telecom customer churn using Logistic Regression and Decision Tree models, featuring an interactive Streamlit dashboard for visual analysis and retention recommendations.
+>>>>>>> 91e49b6b2a7ee13c337f4c80b9bed8bcd6c37435
